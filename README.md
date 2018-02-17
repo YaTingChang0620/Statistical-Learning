@@ -3,7 +3,6 @@ This repository consists of labs in the book: [An Introduction to Statistical Le
 
 Labs covered:  
 * Linear Regression    
-* Linear Discriminant Analysis  
 * Model Regularization  
 * Logistic Regression  
 * K-Nearst-Neighbors  
