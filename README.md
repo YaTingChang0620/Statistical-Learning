@@ -2,8 +2,8 @@
 This repository consists of labs in the book: [An Introduction to Statistical Learning](https://goo.gl/TSMkhu).  
 
 Labs covered:  
-  ..* Linear Regression    
-  ..* Linear Discriminant Analysis  
+..* Linear Regression    
+..* Linear Discriminant Analysis  
   ..* Model Regularization  
   ..* Logistic Regression  
   ..* K-Nearst-Neighbors  
